@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+App that welcomes newcomers or first time contributors to this project
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Background check
+* Update docs
+* Sentiment bot
+* No Response
 
 ## Getting started
 
